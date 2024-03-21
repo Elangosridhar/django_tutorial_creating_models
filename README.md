@@ -1,0 +1,1 @@
+# django_tutorial_creating_models
