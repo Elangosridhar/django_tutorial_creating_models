@@ -61,3 +61,11 @@ a:link, a:visited {
   text-align:center;
   color:#375BDC;
 }
+
+.hello{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  text-align:center;
+  color:#375BDC;
+}
